@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://www.zhongjielianmeng/APP/CityHome.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://m.sinyi.com.cn/packages/Camera720.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://m.sinyi.com.cn/packages/Camera720.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -23,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Test</string>
+				<string>Test App</string>
 			</dict>
 		</dict>
 	</array>
