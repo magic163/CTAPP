@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://m.sinyi.com.cn/packages/Camera720.ipa</string>
+					<string>http://www.zhongjielianmeng/APP/CityHome.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sinyi.Camera720</string>
+				<string>com.anoksoft.app</string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
